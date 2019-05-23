@@ -1,0 +1,18 @@
+<import src="/components/uni-list/uni-list.vue.wxml" />
+<import src="/components/uni-list-item/uni-list-item.vue.wxml" />
+<import src="/components/supervision.vue.wxml" />
+<import src="/components/room.vue.wxml" />
+<import src="/components/qianqishenhe.vue.wxml" />
+<import src="/components/jiandianmyanshou.vue.wxml" />
+<import src="/components/uni-rate/uni-rate.vue.wxml" />
+<import src="/components/img-upload.vue.wxml" />
+<import src="/components/bottom-vue.vue.wxml" />
+<import src="/components/myinfo.vue.wxml" />
+<import src="/common/slots.wxml" />
+<import src="/components/uni-icon/uni-icon.vue.wxml" />
+<import src="/components/uni-badge/uni-badge.vue.wxml" />
+
+<template name="d2a3e0de-default-d2a3e0de-1"><template bindtap="handleProxy" title="清除缓存" note="清除后将无法恢复" data-eventid="{{'d2a3e0de-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'d2a3e0de-0'],$root}}" is="0692f997"></template></template>
+
+<template name="d2a3e0de-default-d2a3e0de-3"><template bindtap="handleProxy" title="退出登录" data-eventid="{{'d2a3e0de-1'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'d2a3e0de-2'],$root}}" is="0692f997"></template></template>
+

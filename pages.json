@@ -1,0 +1,152 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "佰橙优家"
+			}
+		},
+		{
+		    "path" : "pages/myhouse/myhouse",
+		    "style" : {
+				"navigationBarTitleText": "我的房屋"
+			}
+		},
+		{
+		    "path" : "pages/payment/payment",
+		    "style" : {
+				"navigationBarTitleText": "等待支付"
+			}
+		}
+		,{
+		    "path" : "pages/qianqishenhe/qianqishenhe",
+		    "style" : {
+				"navigationBarTitleText": "房屋信息"
+			}
+		},
+		{
+		    "path" : "pages/my-house/my-house",
+		    "style" : {
+				"navigationBarTitleText": "我的房屋"
+			}
+		},
+		{
+		    "path" : "pages/housekeep-server/housekeep-server",
+		    "style" : {
+				"navigationBarTitleText": "管家服务"
+			}
+		},
+		{
+		    "path" : "pages/order-details/order-details",
+		    "style" : {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+		    "path" : "pages/order-from/order-from",
+		    "style" : {
+		    	"navigationBarTitleText": "我的订单"
+		    }
+		},
+		{
+		    "path" : "pages/suggestion/suggestion",
+		    "style": {
+		    	"navigationBarTitleText": "意见反馈"
+		    }
+		},
+		{
+			"path": "pages/assess/assess",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		}
+		,
+		{
+		    "path" : "pages/buy/buy",
+		    "style": {
+		    	"navigationBarTitleText": "选择服务"
+		    }
+		},
+		
+		{
+		    "path" : "pages/order/order",
+		    "style": {
+		    	"navigationBarTitleText": "预约监理"
+		    }
+		}
+        ,{
+            "path" : "pages/setting/setting",
+            "style" : {
+            	"navigationBarTitleText": "设置"
+            }
+        }
+        ,{
+            "path" : "pages/huanbao/huanbao",
+            "style" : {
+            	"navigationBarTitleText": "环保检测"
+            }
+        }
+        ,{
+            "path" : "pages/jiazhuangxian/jiazhuangxian",
+            "style" : {
+            	"navigationBarTitleText": "工程监理责任险"
+            }
+        }
+        ,{
+            "path" : "pages/no-house/no-house",
+            "style" : {
+				"navigationBarTitleText": "我的房屋"
+			}
+        }
+        
+        ,{
+            "path" : "pages/add-house/add-house",
+            "style" : {
+				"navigationBarTitleText": "添加房屋"
+			}
+        }
+        ,{
+            "path" : "pages/house-details/house-details",
+            "style" : {
+				"navigationBarTitleText": "房屋信息"
+			}
+        }
+        ,{
+            "path" : "pages/change-house/change-house",
+            "style" : {
+				"navigationBarTitleText": "修改房屋信息"
+			}
+        }
+        ,{
+            "path" : "pages/buy-jiedian/buy-jiedian",
+            "style" : {
+				"navigationBarTitleText": "购买节点验收服务"
+			}
+        }
+        ,{
+            "path" : "pages/buy-yanfang/buy-yanfang",
+            "style" : {
+				"navigationBarTitleText": "购买验房服务"
+			}
+        }
+        ,{
+            "path" : "pages/bu-qianqishenhe/bu-qianqishenhe",
+            "style" : {
+				"navigationBarTitleText": "购买前期审核服务"
+			}
+        }
+        ,{
+            "path" : "pages/assess-details/assess-details",
+            "style" : {
+				"navigationBarTitleText": "评价详情"
+			}
+        }
+    ],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "佰橙优家",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}

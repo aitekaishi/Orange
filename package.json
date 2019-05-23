@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "leancloud-realtime": "^4.3.0",
+    "leancloud-storage": "^3.13.2",
+    "md5": "^2.2.1"
+  }
+}

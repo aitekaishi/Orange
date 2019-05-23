@@ -1,0 +1,2 @@
+<import src="./huanbao.vue.wxml" />
+    <template is="b5cda3e4" data="{{ ...$root['0'], $root }}"/>

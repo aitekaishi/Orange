@@ -1,0 +1,2 @@
+<import src="./buy-yanfang.vue.wxml" />
+    <template is="04b8f408" data="{{ ...$root['0'], $root }}"/>
