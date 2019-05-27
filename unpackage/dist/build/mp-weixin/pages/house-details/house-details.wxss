@@ -1,11 +1,11 @@
 
-.my-house.data-v-5bb18847{
+.my-house.data-v-0fd7347f{
 		padding: 24rpx;
 		background-color: #F8F9FB;
 		height: 100vh;
 		overflow-y: hidden;
 }
-.my-house-title.data-v-5bb18847{
+.my-house-title.data-v-0fd7347f{
 	font-size: 24rpx;
 	color: #666666;
 	display: -webkit-box;
@@ -17,22 +17,22 @@
 	    -ms-flex-pack: justify;
 	        justify-content: space-between;
 }
-.my-house-title-right image.data-v-5bb18847{
+.my-house-title-right image.data-v-0fd7347f{
 	width: 40rpx;
 	margin-right: 10rpx;
 }
-.my-house-title-right.data-v-5bb18847{
+.my-house-title-right.data-v-0fd7347f{
 	background: #FFFFFF;
 	padding: 10rpx 20rpx;
 	border-radius: 12rpx;
 }
-.my-house-title-left.data-v-5bb18847{
+.my-house-title-left.data-v-0fd7347f{
 	position: relative;
 	top:10rpx;
 	font-size: 28rpx;
 	color: #333333;
 }
-.myhouse.data-v-5bb18847{
+.myhouse.data-v-0fd7347f{
 	width: 710rpx;
 	height: 500rpx;
 	-webkit-box-sizing: border-box;
@@ -42,17 +42,17 @@
 	margin-top: 10rpx;
 	border-radius: 12rpx;
 }
-.myhousea.data-v-5bb18847{
+.myhousea.data-v-0fd7347f{
 		font-size: 28rpx;
 		color: #333333;
 		line-height: 70rpx;
 }
-.myhouseb.data-v-5bb18847{
+.myhouseb.data-v-0fd7347f{
 		font-size: 28rpx;
 		color: #666666;
 		line-height: 70rpx;
 }
-.addhouse-add.data-v-5bb18847{
+.addhouse-add.data-v-0fd7347f{
 		background: #FF9900;
 		color: #ffffff;
 		width: 440rpx;

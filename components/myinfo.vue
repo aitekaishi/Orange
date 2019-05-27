@@ -43,14 +43,14 @@
 			  <view class="weui-cell__ft weui-cell__ft_in-access"></view>
 			</navigator>
 		</button>
-		<!-- <view class="bottom"></view>
+		<view class="bottom"></view>
 		<button @click="work" plain=true>
 			<navigator  class="weui-cell weui-cell_access" hover-class="weui-cell_active">
-				<image src="/static/img/icon/icon_wdgd@2x.png" mode="widthFix"/>
-			  <view class="weui-cell__bd">我的工地</view>
+				<image src="http://lc-ndknejad.cn-n1.lcfile.com/0abc5a2f398cde4744bc/icon_jianliyunbaogao%402x.png" mode="widthFix"/>
+			  <view class="weui-cell__bd">监理云报告</view>
 			  <view class="weui-cell__ft weui-cell__ft_in-access"></view>
 			</navigator>
-		</button> -->
+		</button>
 		<!-- <view class="bottom"></view>
 		<button @click="help" plain=true>
 			<navigator  class="weui-cell weui-cell_access" hover-class="weui-cell_active">

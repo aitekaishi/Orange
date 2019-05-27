@@ -1,2 +1,2 @@
 <import src="./housekeep-server.vue.wxml" />
-    <template is="6b3b7a80" data="{{ ...$root['0'], $root }}"/>
+    <template is="40c4bfec" data="{{ ...$root['0'], $root }}"/>

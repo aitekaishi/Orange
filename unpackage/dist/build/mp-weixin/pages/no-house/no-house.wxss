@@ -1,12 +1,12 @@
 
-.nohouse.data-v-69b99f5b{
+.nohouse.data-v-096360c6{
 		background: #F9F9FB;
 		min-height: 100vh;
 }
-.nohouse image.data-v-69b99f5b{
+.nohouse image.data-v-096360c6{
 	width: 100vw;
 }
-.addhouse.data-v-69b99f5b{
+.addhouse.data-v-096360c6{
 	position: fixed;
 	bottom: 0;
 	height: 90rpx;

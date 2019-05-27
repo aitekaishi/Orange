@@ -1,32 +1,32 @@
 
-.jiazhuangxian.data-v-67f73878{
+.jiazhuangxian.data-v-27b311cf{
 	padding-left: 24rpx;
 	padding-right: 24rpx;
 }
-.jiazhuangxian-title.data-v-67f73878{
+.jiazhuangxian-title.data-v-27b311cf{
 	font-size: 32rpx;
 	color: #333333;
 	font-weight: 600;
 	padding-top: 40rpx;
 	padding-bottom: 20rpx;
 }
-.jiazhuangxian-contain.data-v-67f73878{
+.jiazhuangxian-contain.data-v-27b311cf{
 	font-size: 28rpx;
 	color: #333333;
 }
-.jiazhuangxian-image.data-v-67f73878{
+.jiazhuangxian-image.data-v-27b311cf{
 	margin-top: 64rpx;
 	margin-bottom: 40rpx;
 	text-align: center;
 }
-.jiazhuangxian-image image.data-v-67f73878{
+.jiazhuangxian-image image.data-v-27b311cf{
 	width: 506rpx;
 }
-.jiazhuangxian-imagea image.data-v-67f73878{
+.jiazhuangxian-imagea image.data-v-27b311cf{
 	margin-top: 20rpx;
 	width: 700rpx;
 }
-.index-bottom.data-v-67f73878{
+.index-bottom.data-v-27b311cf{
 	height: 130rpx;
 }
 

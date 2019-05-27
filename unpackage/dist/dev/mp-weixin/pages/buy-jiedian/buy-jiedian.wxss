@@ -1,13 +1,13 @@
-.bottom-one-title.data-v-0bcf3517 {
+.bottom-one-title.data-v-34617b02 {
   font-size: 24rpx;
   color: #FF9900;
 }
-.bottom-one-titlea.data-v-0bcf3517 {
+.bottom-one-titlea.data-v-34617b02 {
   font-size: 42rpx;
   font-weight: 600;
   color: #FF9900;
 }
-.input.data-v-0bcf3517 {
+.input.data-v-34617b02 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -18,12 +18,12 @@
   margin-bottom: 10rpx;
   background: #ffffff;
 }
-.input .input-title.data-v-0bcf3517 {
+.input .input-title.data-v-34617b02 {
   color: #999999;
   font-size: 28rpx;
   margin-left: 22rpx;
 }
-.input .uni-input.data-v-0bcf3517 {
+.input .uni-input.data-v-34617b02 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -34,12 +34,12 @@
   line-height: 108rpx;
   margin-top: 0;
 }
-.none.data-v-0bcf3517 {
+.none.data-v-34617b02 {
   width: 100%;
   height: 20rpx;
   background: #f9f9fb;
 }
-.submit.data-v-0bcf3517 {
+.submit.data-v-34617b02 {
   width: 710rpx;
   height: 72rpx;
   background: #3fa6eb;
@@ -49,26 +49,26 @@
   margin-top: 200rpx;
   font-size: 28rpx;
 }
-.order-cotaina.data-v-0bcf3517 {
+.order-cotaina.data-v-34617b02 {
   background: #f9f9fb;
   min-height: 100vh;
 }
-.radio.data-v-0bcf3517 {
+.radio.data-v-34617b02 {
   padding: 20rpx;
   background: #ffffff;
   padding-bottom: 0;
 }
-.radio .radio-title.data-v-0bcf3517 {
+.radio .radio-title.data-v-34617b02 {
   font-size: 32rpx;
   margin-bottom: 10rpx;
 }
-.radio .radion-contain.data-v-0bcf3517 {
+.radio .radion-contain.data-v-34617b02 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
 }
-.radio .radion-contain .radio-name.data-v-0bcf3517 {
+.radio .radion-contain .radio-name.data-v-34617b02 {
   font-size: 28rpx;
   color: #999999;
   display: inline-block;
@@ -76,24 +76,24 @@
   position: relative;
   top: -10rpx;
 }
-.radio .radion-contain .radio-contain-rl.data-v-0bcf3517 {
+.radio .radion-contain .radio-contain-rl.data-v-34617b02 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
       -ms-flex: 1;
           flex: 1;
   text-align: right;
 }
-.radio .radion-contain .radio-contain-rl .radio-image.data-v-0bcf3517 {
+.radio .radion-contain .radio-contain-rl .radio-image.data-v-34617b02 {
   display: inline-block;
 }
-.radio .radion-contain .radio-contain-rl .radio-image image.data-v-0bcf3517 {
+.radio .radion-contain .radio-contain-rl .radio-image image.data-v-34617b02 {
   width: 36rpx;
   height: 36rpx;
 }
-.disnone.data-v-0bcf3517 {
+.disnone.data-v-34617b02 {
   display: none;
 }
-.bottom.data-v-0bcf3517 {
+.bottom.data-v-34617b02 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -103,7 +103,7 @@
   position: absolute;
   bottom: 0;
 }
-.bottom .bottom-one.data-v-0bcf3517 {
+.bottom .bottom-one.data-v-34617b02 {
   width: 400rpx;
   line-height: 100rpx;
   font-size: 32rpx;
@@ -112,7 +112,7 @@
   text-align: left;
   padding-left: 20rpx;
 }
-.bottom .bottom-two.data-v-0bcf3517 {
+.bottom .bottom-two.data-v-34617b02 {
   width: 350rpx;
   line-height: 100rpx;
   font-size: 32rpx;
@@ -120,17 +120,17 @@
   border-radius: 0;
   border: none;
 }
-.true.data-v-0bcf3517 {
+.true.data-v-34617b02 {
   background: #ff9900;
 }
-.false.data-v-0bcf3517 {
+.false.data-v-34617b02 {
   background: #c3c3c3;
 }
-.radio-namea.data-v-0bcf3517 {
+.radio-namea.data-v-34617b02 {
   font-size: 28rpx;
   color: #333333;
 }
-.radio-one.data-v-0bcf3517 {
+.radio-one.data-v-34617b02 {
   width: 710rpx;
   height: 400rpx;
   -webkit-box-sizing: border-box;
@@ -139,7 +139,7 @@
   border-radius: 12rpx;
   background: #FFFFFF;
 }
-.xsdsdsd.data-v-0bcf3517 {
+.xsdsdsd.data-v-34617b02 {
   font-size: 28rpx;
   height: 100rpx;
   line-height: 100rpx;

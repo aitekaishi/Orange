@@ -1,20 +1,20 @@
 
-image.data-v-e09abe32{
+image.data-v-dab951c8{
 	width: 402rpx;
 	height: 238rpx;
 	margin: 0 auto;
 }
-.wait.data-v-e09abe32{
+.wait.data-v-dab951c8{
 	margin-top: 292rpx;
 }
-._p.data-v-e09abe32{
+._p.data-v-dab951c8{
 	font-size: 32rpx;
 	color: #9B9B9B;
 	margin-top: 40rpx;padding-left: 20rpx;
 }
 
 
-button.data-v-d6096996 {
+button.data-v-16993279 {
 	height: 98rpx;
 	border: none;
 	display: inline-block;
@@ -22,16 +22,16 @@ button.data-v-d6096996 {
 	padding: 0;
 	float: left;
 }
-.view-bt.data-v-d6096996 {
+.view-bt.data-v-16993279 {
 	position: fixed;
 	bottom: 0;
 }
-.bt-img1.data-v-d6096996,
-.bt-img2.data-v-d6096996 {
+.bt-img1.data-v-16993279,
+.bt-img2.data-v-16993279 {
 	width: 200rpx;
 	height: 98rpx;
 }
-.bt-img3.data-v-d6096996 {
+.bt-img3.data-v-16993279 {
 	width: 350rpx;
 	height: 98rpx;
 }
