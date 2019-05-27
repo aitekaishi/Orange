@@ -1,2 +1,2 @@
 <import src="./assess.vue.wxml" />
-    <template is="77d08e6f" data="{{ ...$root['0'], $root }}"/>
+    <template is="01fd6820" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,1 @@
+<template name="1c4aa4f0"><text tt:if="{{ h[ 0 ]._if }}" class="_text uni-badge {{ h[ 0 ].cl }} {{ h[ 0 ].rcl }}" data-cid="{{ _c || c }}" data-hid="{{ 0 }}" bindtap="_pe">{{ h[ 1 ].t }}</text></template>

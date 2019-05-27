@@ -1,0 +1,32 @@
+
+.jiazhuangxian.data-v-af4a7d4a{
+	padding-left: 24rpx;
+	padding-right: 24rpx;
+}
+.jiazhuangxian-title.data-v-af4a7d4a{
+	font-size: 32rpx;
+	color: #333333;
+	font-weight: 600;
+	padding-top: 40rpx;
+	padding-bottom: 20rpx;
+}
+.jiazhuangxian-contain.data-v-af4a7d4a{
+	font-size: 28rpx;
+	color: #333333;
+}
+.jiazhuangxian-image.data-v-af4a7d4a{
+	margin-top: 64rpx;
+	margin-bottom: 40rpx;
+	text-align: center;
+}
+.jiazhuangxian-image image.data-v-af4a7d4a{
+	width: 506rpx;
+}
+.jiazhuangxian-imagea image.data-v-af4a7d4a{
+	margin-top: 20rpx;
+	width: 700rpx;
+}
+.index-bottom.data-v-af4a7d4a{
+	height: 130rpx;
+}
+

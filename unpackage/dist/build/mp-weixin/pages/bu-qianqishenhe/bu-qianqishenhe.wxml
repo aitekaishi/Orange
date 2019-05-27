@@ -1,2 +1,2 @@
 <import src="./bu-qianqishenhe.vue.wxml" />
-    <template is="1a36a195" data="{{ ...$root['0'], $root }}"/>
+    <template is="dde65df4" data="{{ ...$root['0'], $root }}"/>

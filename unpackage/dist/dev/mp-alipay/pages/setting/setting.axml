@@ -1,0 +1,2 @@
+<import src="/components/uni-list/uni-list.vue.axml"/><import src="/components/uni-list-item/uni-list-item.vue.axml"/><template name="490b4102"><view class="_view setting {{ h[ 0 ].rcl }}"><view class="_view none"></view><template is="2d2cb4cc" data="{{ ...$root[ cp + 0 ], $root, s_default: 'default_0', _t: _t || '' }}" /><view class="_view none"></view><template is="2d2cb4cc" data="{{ ...$root[ cp + 2 ], $root, s_default: 'default_1', _t: _t || '' }}" /></view></template>
+<template is="490b4102" data="{{ ...$root['0'], $root }}"/>

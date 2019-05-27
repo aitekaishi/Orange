@@ -9,8 +9,8 @@
 <import src="/components/img-upload.vue.wxml" />
 <import src="/components/bottom-vue.vue.wxml" />
 <import src="/components/uni-icon/uni-icon.vue.wxml" />
-<import src="/components/uni-badge/uni-badge.vue.wxml" />
 <import src="/common/slots.wxml" />
+<import src="/components/uni-badge/uni-badge.vue.wxml" />
 
 <template name="M490b4102-default-490b4102-1"><template bindtap="handleProxy" title="清除缓存" note="清除后将无法恢复" data-eventid="{{'490b4102-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'490b4102-0'],$root}}" is="6a82b846"></template></template>
 

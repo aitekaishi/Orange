@@ -1,0 +1,2 @@
+<template name="00e65240"><view class="_view nohouse {{ h[ 0 ].rcl }} data-v-22d55673"><image class="_image data-v-22d55673" src="http://lc-ndknejad.cn-n1.lcfile.com/0f96015edd90fecab225/nohouse.png" mode="widthFix"></image><view class="_view addhouse data-v-22d55673"><image class="_image data-v-22d55673" src="http://lc-ndknejad.cn-n1.lcfile.com/a3520686a1c08b4c3dbe/addhouse.png" mode="widthFix" data-cid="{{ _c || c }}" data-hid="{{ 3 }}" onTap="_pe"></image></view></view></template>
+<template is="00e65240" data="{{ ...$root['0'], $root }}"/>

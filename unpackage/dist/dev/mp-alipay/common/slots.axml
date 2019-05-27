@@ -1,0 +1,6 @@
+<import src="/components/uni-list-item/uni-list-item.vue.axml" />
+
+<template name="default_0" parent="490b4102"><template is="6a82b846" data="{{ ...$root[ cp + 1 + _t ], $root, _t: _t || '' }}" /></template>
+
+<template name="default_1" parent="490b4102"><template is="6a82b846" data="{{ ...$root[ cp + 3 + _t ], $root, _t: _t || '' }}" /></template>
+

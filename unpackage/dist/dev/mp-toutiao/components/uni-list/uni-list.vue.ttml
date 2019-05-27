@@ -1,0 +1,1 @@
+<import src="/common/slots.ttml"/><template name="2d2cb4cc"><view class="_view uni-list {{ h[ 0 ].rcl }}"><template name="default$2"></template><template is="{{ s_default || 'default$2' }}" data="{{ ...$root[ s ], $root, _t: _t || '', _c: c }}"/></view></template>
